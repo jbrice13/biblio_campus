@@ -8,12 +8,19 @@ Application Python de gestion de bibliothèque universitaire.
 - Emprunter un livre
 - Rendre un livre
 - Afficher des statistiques
+<<<<<<< HEAD
+=======
+
+>>>>>>> 00a8aed778b604146bc3a5fa28909b8c39176d08
 ## Installation
 ```bash
 git clone <URL_DU_DEPOT>
 cd biblio_campus
 python main.py
+<<<<<<< HEAD
 
+=======
+>>>>>>> 00a8aed778b604146bc3a5fa28909b8c39176d08
 Équipe
 •	Collaborateur A
 •	Collaborateur B
